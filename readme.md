@@ -31,41 +31,41 @@ I use a [lot of apps](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-i
 
 I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together with my [iOS setup](https://github.com/nikitavoloboev/my-ios). And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things macOS/iOS.
 
-I have [extensive wiki](https://wiki.nikitavoloboev.xyz) where I share [everything I know](https://wiki.nikitavoloboev.xyz/sharing/everything-I-know). Apps that I described in the wiki are linked to from here.
+I have [extensive wiki](https://wiki.nikiv.dev) where I share [everything I know](https://wiki.nikiv.dev/sharing/everything-I-know). Apps that I described in the wiki are linked to from here.
 
 ### Changing themes
 
-I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros) with [this AppleScript](https://www.macobserver.com/tips/quick-tip/change-light-dark-mode-applescript-app/) to switch [between light/dark macOS appearances](https://twitter.com/nikitavoloboev/status/1311336647338983432). As appearances are switched, the themes get updated accordingly on most apps.
+I made [KM macro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros) with [this AppleScript](https://www.macobserver.com/tips/quick-tip/change-light-dark-mode-applescript-app/) to switch [between light/dark macOS appearances](https://twitter.com/nikitavoloboev/status/1311336647338983432). As appearances are switched, the themes get updated accordingly on most apps.
 
 ### Productivity
 
 #### [Alfred](https://www.alfredapp.com) - Launcher
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/alfred).
+- Described in [wiki](https://wiki.nikiv.dev/macos/apps/alfred).
 
 #### [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/karabiner).
+- Described in [wiki](https://wiki.nikiv.dev/macos/apps/karabiner).
 
 #### [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro).
+- Described in [wiki](https://wiki.nikiv.dev/macos/apps/keyboard-maestro).
 
 #### [2Do](https://www.2doapp.com/mac) - Flexible task manager
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/2do).
+- Described in [wiki](https://wiki.nikiv.dev/macos/apps/2do).
 
 #### [1Password](https://1password.com) - Password manager
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/1password).
+- Described in [wiki](https://wiki.nikiv.dev/macos/apps/1password).
 
 #### [BetterTouchTool](https://folivora.ai) - Mac input customizer
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/bettertouchtool).
+- Described in [wiki](https://wiki.nikiv.dev/macos/apps/bettertouchtool).
 
 #### [Fantastical](https://flexibits.com/fantastical) - Calendar
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/fantastical).
+- Described in [wiki](https://wiki.nikiv.dev/macos/apps/fantastical).
 
 #### [Dictionary](<http://en.wikipedia.org/wiki/Dictionary_(software)>)
 
@@ -93,7 +93,7 @@ I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maes
 #### [Reeder](http://reederapp.com/mac/) - RSS Reeder
 
 - The app I use to keep up with my RSS feeds. I use RSS to follow my favorite blogs, stay up to date on new podcast episodes and even track some software releases.
-- I use [Inoreader](https://www.inoreader.com) to sync [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs) between phone and mac.
+- I use [Inoreader](https://www.inoreader.com) to sync [blogs I follow](https://wiki.nikiv.dev/research/blogs) between phone and mac.
 - Here is how Reeder looks like for me:
 
 ![](https://i.imgur.com/l0Cq6ZT.jpg)
@@ -104,7 +104,7 @@ I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maes
 
 #### [Notion](https://www.notion.so/) - All-in-one workspace
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/tools/notion).
+- Described in [wiki](https://wiki.nikiv.dev/tools/notion).
 
 #### [Linear](https://linear.app/) - Issue tracker
 
@@ -114,15 +114,15 @@ I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maes
 
 #### [VS Code](https://github.com/Microsoft/vscode) - Code editor
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/text-editors/vs-code).
+- Described in [wiki](https://wiki.nikiv.dev/text-editors/vs-code).
 
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/iterm).
+- Described in [wiki](https://wiki.nikiv.dev/macos/apps/iterm).
 
 #### [Sublime Text](https://www.sublimetext.com) - Text Editor
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/text-editors/sublime-text).
+- Described in [wiki](https://wiki.nikiv.dev/text-editors/sublime-text).
 
 #### [Sublime Merge](https://www.sublimemerge.com) - Git Client
 
@@ -140,13 +140,13 @@ I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maes
 
 #### [Neovim](https://neovim.io) - Text Editor
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/text-editors/vim).
+- Described in [wiki](https://wiki.nikiv.dev/text-editors/vim).
 
 ### Social
 
 #### [Telegram](https://desktop.telegram.org/) - Messenger
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/tools/telegram).
+- Described in [wiki](https://wiki.nikiv.dev/tools/telegram).
 
 #### [Spark](https://sparkmailapp.com) - Email client
 
@@ -154,17 +154,17 @@ I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maes
 
 #### [Tweetbot](http://tapbots.com/tweetbot/mac/) - Twitter client
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/tweetbot).
+- Described in [wiki](https://wiki.nikiv.dev/macos/apps/tweetbot).
 
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/textual).
+- Described in [wiki](https://wiki.nikiv.dev/macos/apps/textual).
 
 ### Design
 
 #### [Figma](https://www.figma.com) - Design tool
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/design/figma).
+- Described in [wiki](https://wiki.nikiv.dev/design/figma).
 
 #### [Sip](https://sipapp.io/) - Collect, organize & share colors
 
@@ -196,7 +196,7 @@ I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maes
 
 #### [Safari](https://www.apple.com/lae/safari/)
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/web/browsers/safari).
+- Described in [wiki](https://wiki.nikiv.dev/web/browsers/safari).
 
 ##### Safari Extensions
 
@@ -206,7 +206,7 @@ I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maes
 
 #### [Google Chrome Canary](https://www.google.com/chrome/canary/)
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/web/browsers/google-chrome).
+- Described in [wiki](https://wiki.nikiv.dev/web/browsers/google-chrome).
 
 ## Command Line Apps
 
