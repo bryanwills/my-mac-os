@@ -277,10 +277,10 @@ If you found this interesting, I also have [similar repository](https://github.c
     <img width="250" heigth="400" src="https://i.imgur.com/bKZFowT.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/EqBFoIW.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/tOblwIz.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://i.imgur.com/YbNPM0M.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/OT2aRau.jpg"></a>
 
 ## Similar Setups
 
