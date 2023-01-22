@@ -53,6 +53,7 @@ I made [KM macro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros) 
 - [CleanShot](https://getcleanshot.com) use it for quick editing of screenshots.
 - [Transmission](https://www.transmissionbt.com/) is great [BitTorrent](https://wiki.nikiv.dev/networking/peer-to-peer/bittorrent) client.
 - [Notion](https://wiki.nikiv.dev/tools/notion) is useful to manage team wikis or share documents with others. Don't like using it as my general knowledge management tool.
+- [NetNewsWire](https://netnewswire.com/) use it to read all my [RSS](https://wiki.nikiv.dev/web/rss) feeds.
 
 ### Code
 
