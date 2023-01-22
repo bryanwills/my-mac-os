@@ -31,7 +31,9 @@ I use a [lot of apps](https://wiki.nikiv.dev/code/config#macos-apps-i-have-insta
 
 I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together with my [iOS setup](https://github.com/nikitavoloboev/my-ios). And I made a [Telegram group](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) to discuss all things macOS/iOS.
 
-I have [extensive wiki](https://wiki.nikiv.dev) where I share [everything I know](https://wiki.nikiv.dev/sharing/everything-I-know). Apps that I described in the wiki are linked to from here.
+I have [extensive wiki](https://wiki.nikiv.dev) where I share [everything I know](https://wiki.nikiv.dev/sharing/everything-I-know). I go in detail about how I use each of the apps in the wiki. Not to duplicate the content, I simply link to the wiki from here as the wiki will always be up to date.
+
+My workflow in general is described in detail [here](https://wiki.nikiv.dev/sharing/my-workflow).
 
 ### Changing themes
 
@@ -39,235 +41,56 @@ I made [KM macro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros) 
 
 ### Productivity
 
-#### [Alfred](https://www.alfredapp.com) - Launcher
-
-- Described in [wiki](https://wiki.nikiv.dev/macos/apps/alfred).
-
-#### [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping
-
-- Described in [wiki](https://wiki.nikiv.dev/macos/apps/karabiner).
-
-#### [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
-
-- Described in [wiki](https://wiki.nikiv.dev/macos/apps/keyboard-maestro).
-
-#### [2Do](https://www.2doapp.com/mac) - Flexible task manager
-
-- Described in [wiki](https://wiki.nikiv.dev/macos/apps/2do).
-
-#### [1Password](https://1password.com) - Password manager
-
-- Described in [wiki](https://wiki.nikiv.dev/macos/apps/1password).
-
-#### [BetterTouchTool](https://folivora.ai) - Mac input customizer
-
-- Described in [wiki](https://wiki.nikiv.dev/macos/apps/bettertouchtool).
-
-#### [Fantastical](https://flexibits.com/fantastical) - Calendar
-
-- Described in [wiki](https://wiki.nikiv.dev/macos/apps/fantastical).
-
-#### [Dictionary](<http://en.wikipedia.org/wiki/Dictionary_(software)>)
-
-- Comes natively with macOS and I started to love using it for exploring and searching through Wikipedia.
-- It is incredibly fast to make the searches and it gives quick autosuggestions for any query I type that I can then select with up and down arrows.
-
-![](https://i.imgur.com/wFkJXwd.png)
-
-#### [CleanShot](https://getcleanshot.com) - Create & annotate screenshots/recordings
-
-- After you make a screenshot, it allows for quick edits (arrows, text, blurring).
-
-#### [Popclip](https://pilotmoon.com/popclip/) - iOS like mouse text selection popover
-
-- Brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching selected text on Google, YouTube or copy the text. Here are the extensions I have activated:
-
-![](https://i.imgur.com/PS3HFvS.png)
-
-- And here is how it looks for me:
-
-<img src="https://i.imgur.com/dxt2qjK.png" width="400" alt="img">
-
-- Everything I use comes by default with PopClip except YouTube extension which you can download [here](https://www.dropbox.com/sh/gckplsy5d4mg4rq/AABgvWT9QKg0NlwC9Bz8X9B0a?dl=0). I used [PopMaker](http://brettterpstra.com/2014/05/12/popmaker-popclip-extension-generator/) tool to create this web search extension.
-
-#### [Reeder](http://reederapp.com/mac/) - RSS Reeder
-
-- The app I use to keep up with my RSS feeds. I use RSS to follow my favorite blogs, stay up to date on new podcast episodes and even track some software releases.
-- I use [Inoreader](https://www.inoreader.com) to sync [blogs I follow](https://wiki.nikiv.dev/research/blogs) between phone and mac.
-- Here is how Reeder looks like for me:
-
-![](https://i.imgur.com/l0Cq6ZT.jpg)
-
-#### [Transmission](https://www.transmissionbt.com/) - BitTorrent client
-
-- A torrent client that I use. Very minimal in its UI but very powerful and has all the features that I need.
-
-#### [Notion](https://www.notion.so/) - All-in-one workspace
-
-- Described in [wiki](https://wiki.nikiv.dev/tools/notion).
-
-#### [Linear](https://linear.app/) - Issue tracker
-
-- Nice private project tracker. I like to use GitHub issues primarily for projects.
+- [Alfred](https://wiki.nikiv.dev/macOS/apps/alfred), [Raycast](https://wiki.nikiv.dev/tools/raycast) & [Script Kit](https://wiki.nikiv.dev/macOS/apps/scriptkit) for everything search related. I create many custom plugins to do specific searches I need.
+- [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/) is essential tool I use to remap my keyboard. It's the tool on which my entire mac workflow is built. Essentially all the keys on my keyboard are dual purpose keys. Press once, it enters the key, hold together with another key and do custom action. I have 100's of these custom actions all within 1 second of activation for me.
+- [Keyboard Maestro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/) for all automation needs that are not search related. Both Alfred/Raycast/ScriptKit and KM are activated from Karabiner directly. I share all my KM macros [here](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros).
+- [2Do](https://wiki.nikiv.dev/macOS/apps/2do) for personal tasks. It has the best onscreen keybinds ever. `y` to move task for due tomorrow. Easily change priority or assign task to list.
+- [Height](https://height.app) for project & personal [goals](https://wiki.nikiv.dev/focusing/goals) management. It's one of my main tools to [break down problems as I solve them](https://wiki.nikiv.dev/research/solving-problems) in team or personal setting.
+- [1Password](https://wiki.nikiv.dev/macOS/apps/1password) use it to keep all passwords and secret info. I prefer to use Single Sign On via GitHub or Google as I do dislike keeping track of passwords.
+- [BetterTouchTool](https://wiki.nikiv.dev/macOS/apps/bettertouchtool) use to for custom trackpad gestures. Specifically love three finger swipe left/right to move between tabs in [Safari](https://wiki.nikiv.dev/web/browsers/safari). Three finger swipe up to create new tab. Three down to close. Four finger swipe global swipe to show Safari. Four to right to open [VSCode](https://wiki.nikiv.dev/text-editors/vs-code). Four left to open [Warp](https://wiki.nikiv.dev/unix/shell/warp).
+- [Fantastical](https://wiki.nikiv.dev/macOS/apps/fantastical) use to manage my calendar and events.
+- [Dictionary](https://support.apple.com/en-gb/guide/dictionary/welcome/mac) surprisingly useful to [quickly search Wikipedia](https://i.imgur.com/wFkJXwd.png).
+- [CleanShot](https://getcleanshot.com) use it for quick editing of screenshots.
+- [Transmission](https://www.transmissionbt.com/) is great [BitTorrent](https://wiki.nikiv.dev/networking/peer-to-peer/bittorrent) client.
+- [Notion](https://wiki.nikiv.dev/tools/notion) is useful to manage team wikis or share documents with others. Don't like using it as my general knowledge management tool.
 
 ### Code
 
-#### [VS Code](https://github.com/Microsoft/vscode) - Code editor
-
-- Described in [wiki](https://wiki.nikiv.dev/text-editors/vs-code).
-
-#### [iTerm](https://www.iterm2.com/) - Terminal Emulator
-
-- Described in [wiki](https://wiki.nikiv.dev/macos/apps/iterm).
-
-#### [Sublime Text](https://www.sublimetext.com) - Text Editor
-
-- Described in [wiki](https://wiki.nikiv.dev/text-editors/sublime-text).
-
-#### [Sublime Merge](https://www.sublimemerge.com) - Git Client
-
-- Use it to version control projects I work on. Use it together with [gitupdate](https://github.com/nikitavoloboev/gitupdate) to frictionlessly manage updates.
-
-#### [Dash](https://kapeli.com/dash) - API Documentation Browser
-
-- Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred workflow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
-
-<img src="https://i.imgur.com/P5LQaLz.png" width="500" alt="img">
-
-#### [Paw](https://paw.cloud) - HTTP client
-
-- Use it to quickly make HTTP requests and test out API endpoints.
-
-#### [Neovim](https://neovim.io) - Text Editor
-
-- Described in [wiki](https://wiki.nikiv.dev/text-editors/vim).
+- [VS Code](https://wiki.nikiv.dev/text-editors/vs-code) is my main editor and where I spend the most time in aside from [Safari](https://wiki.nikiv.dev/web/browsers/safari). Use and love its [extensions](https://wiki.nikiv.dev/text-editors/vs-code/vs-code-extensions). Keep my UI minimal and useful.
+- [Sublime Text](https://wiki.nikiv.dev/text-editors/sublime-text) use it for [quick edits of markdown, specifically my wiki](https://wiki.nikiv.dev/other/wiki-workflow). It opens up instantly and is joy to edit in. Have custom [KM macros](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros) such as quickly creating markdown links or other little useful actions.
+- [Sublime Merge](https://www.sublimemerge.com) use it as visual Git client. It gives nice overview of files changed, what branches exist and more. I have custom actions bound to go through Git tasks fast. I also use [gitupdate](https://github.com/nikitavoloboev/gitupdate) for throwaway commits either on PR branches where main commit will be written when squashed or some random doc related repos.
+- [Dash](https://kapeli.com/dash) use it to [search for APIs fast](https://i.imgur.com/P5LQaLz.png). Use it through [Alfred workflow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/).
+- [Paw](https://paw.cloud) use it for sending HTTP requests as I test endpoints.
 
 ### Social
 
-#### [Telegram](https://desktop.telegram.org/) - Messenger
-
-- Described in [wiki](https://wiki.nikiv.dev/tools/telegram).
-
-#### [Spark](https://sparkmailapp.com) - Email client
-
-- Love how it smartly categorizes emails by categories. I approach all of my email tasks in GTD style. Keeping my email Inbox close to 0 at all times.
-
-#### [Tweetbot](http://tapbots.com/tweetbot/mac/) - Twitter client
-
-- Described in [wiki](https://wiki.nikiv.dev/macos/apps/tweetbot).
-
-#### [Textual](https://www.codeux.com/textual/) - IRC Client
-
-- Described in [wiki](https://wiki.nikiv.dev/macos/apps/textual).
+- [Telegram](https://wiki.nikiv.dev/tools/telegram) use it as my main messenger and absolutely love it. Love its stickers, the speed and honestly everything about it.
+- [Spark](https://sparkmailapp.com) use it as my email client. Does good job of sorting mail and getting out of my way when writing/replying to things.
 
 ### Design
 
-#### [Figma](https://www.figma.com) - Design tool
-
-- Described in [wiki](https://wiki.nikiv.dev/design/figma).
-
-#### [Sip](https://sipapp.io/) - Collect, organize & share colors
-
-- Great color picker I use to collect my favorite colors and color schemes.
-
-<img src="https://i.imgur.com/RbtDn7n.png" width="400" alt="img">
-
-#### [PixelSnap](https://getpixelsnap.com/) - Measure everything on screen
-
-- Use it to quickly get measurements of objects and distances between elements.
+- [Figma](https://wiki.nikiv.dev/design/figma) use it as my primary design tool.
 
 ### Music
 
-#### [Spotify](https://www.spotify.com/us/) - Music streaming
-
-- Found a [lot of great music](https://open.spotify.com/user/nikitavoloboev) with this app and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy.
-- Quickly finding artists, songs I want to listen, instantly adding the song playing to my [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?) playlist or any other playlist I want, seeing what other songs the artist has and more.
-
-<img src="https://i.imgur.com/WqobmyT.png" width="500" alt="img">
+- [Spotify](https://www.spotify.com) use it to stream all [my music](https://wiki.nikiv.dev/music). Keep all my liked songs in a [playlist](https://open.spotify.com/playlist/0ERn0U4qZIKC8Dy7RrMMsn).
 
 ### Video
 
-#### [IINA](https://github.com/lhc70000/iina) - Video player
-
-- Open source alternative to VLC built specifically for macOS.
-- It is based on [mpv](https://github.com/mpv-player/mpv) and has a more modern and native look than VLC.
+- [IINA](https://github.com/lhc70000/iina) use it to play video files of movies/series.
 
 ### Browsers
 
-#### [Safari](https://www.apple.com/lae/safari/)
-
-- Described in [wiki](https://wiki.nikiv.dev/web/browsers/safari).
-
-##### Safari Extensions
-
-- [Vimari](https://github.com/televator-apps/vimari) - Adds custom layer of keybinds you can customize to personalize the browsing experience like hinting and moving between tabs.
-- [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
-- [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
-
-#### [Google Chrome Canary](https://www.google.com/chrome/canary/)
-
-- Described in [wiki](https://wiki.nikiv.dev/web/browsers/google-chrome).
+- [Safari](https://wiki.nikiv.dev/web/browsers/safari) spend majority of time on mac in the app.
+- [Google Chrome Canary](https://wiki.nikiv.dev/web/browsers/google-chrome) use Canary over regular as I don't use Chrome for browsing but for development as its [dev tools](https://wiki.nikiv.dev/web/browsers/google-chrome/chrome-dev-tools) are superior. Sometimes canary builds break so I go to regular Chrome.
 
 ## Command Line Apps
 
-I use [brew](https://brew.sh) package manager to install all the [tools I use on my system](https://github.com/nikitavoloboev/dotfiles/blob/master/magefile.go).
+Use [Brew](https://wiki.nikiv.dev/package-managers/brew) and global [pnpm](https://pnpm.io/) packages for most of my CLIs. Although eventually want to settle down on [Nix](https://wiki.nikiv.dev/package-managers/nix) as I learn it more.
 
-I curate a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools). Below are ones I love & use:
+I try to keep my macOS declarative. Currently it's a [Go file](https://github.com/nikitavoloboev/dotfiles/blob/master/magefile.go) in my [dotfiles](https://github.com/nikitavoloboev/dotfiles) and is not up to date.
 
-- [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
-- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
-- [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
-- [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
-- [bat](https://github.com/sharkdp/bat) - Cat clone with wings.
-- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, APIs, and sites in seconds to AWS.
-- [jq](https://github.com/stedolan/jq) - JSON processor.
-- [git](https://github.com/git/git) - Version control.
-- [curl](https://curl.haxx.se/docs/manpage.html) - Transfer data from or to a server.
-- [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from YouTube and other video sites.
-- [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
-- [direnv](https://direnv.net/) - Environment switcher for the shell.
-- [htop](https://github.com/hishamhm/htop) - Interactive text-mode process viewer for Unix systems.
-- [httpie](https://github.com/jakubroztocil/httpie) - HTTP client.
-- [rq](https://github.com/dflemstr/rq) - Tool for doing record analysis and transformation.
-- [pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
-- [trash](https://github.com/sindresorhus/trash) - Move files and folders to the trash.
-- [vtop](https://github.com/MrRio/vtop) - Graphical activity monitor.
-- [gotop](https://github.com/cjbassi/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.
-- [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers.
-- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
-- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
-- [imgcat](https://github.com/eddieantonio/imgcat) - Like [cat](http://www.linfo.org/cat.html) but for images.
-- [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
-- [hugo](https://github.com/gohugoio/hugo) - Fast and flexible static site generator.
-- [reflex](https://github.com/cespare/reflex) - Run a command when files change.
-- [modd](https://github.com/cortesi/modd) - Flexible tool for responding to file system changes.
-- [now](https://github.com/zeit/now-cli) - Real time global deployments served over HTTP/2.
-- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
-- [hub](https://github.com/github/hub) - GitHub wrapper.
-- [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
-- [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer.
-- [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
-- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
-- [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
-- [loc](https://github.com/cgag/loc) - Count lines of code quickly.
-- [alfred](https://godoc.org/github.com/jason0x43/go-alfred/alfred) - Manage Go-based Alfred workflows.
-- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
-- [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
-- [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
-- [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool.
-- [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
-- [npx](https://github.com/zkat/npx) - Execute npm package binaries.
-- [devd](https://github.com/cortesi/devd) - Local webserver for developers.
-- [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the WiFi you're on.
-- [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes.
-- [ran](https://github.com/m3ng9i/ran) - Simple static web server written in Go.
-- [mcfly](https://github.com/cantino/mcfly) - Fast visual command history search.
-- [hyperfine](https://github.com/sharkdp/hyperfine) - Excellent command-line benchmarking tool.
-
-## Launchpad
-
-![](https://i.imgur.com/Xm0EpfG.jpg)
+I list CLIs I use [here](https://wiki.nikiv.dev/cli).
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios)
 
