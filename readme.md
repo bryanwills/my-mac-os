@@ -66,6 +66,7 @@ I made [KM macro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros) 
 
 - [Telegram](https://wiki.nikiv.dev/tools/telegram) use it as my main messenger and absolutely love it. Love its stickers, the speed and honestly everything about it.
 - [Spark](https://sparkmailapp.com) use it as my email client. Does good job of sorting mail and getting out of my way when writing/replying to things.
+- [Discord](https://wiki.nikiv.dev/tools/discord) use it the main way to interact with various communities. Much better than [Slack](https://wiki.nikiv.dev/tools/slack) as it keeps the history forever and recently added a nice Forum feature better question asking.
 
 ### Design
 
