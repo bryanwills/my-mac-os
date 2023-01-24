@@ -54,14 +54,18 @@ I made [KM macro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros) 
 - [Transmission](https://www.transmissionbt.com/) is great [BitTorrent](https://wiki.nikiv.dev/networking/peer-to-peer/bittorrent) client.
 - [Notion](https://wiki.nikiv.dev/tools/notion) is useful to manage team wikis or share documents with others. Don't like using it as my general knowledge management tool.
 - [NetNewsWire](https://netnewswire.com/) use it to read all my [RSS](https://wiki.nikiv.dev/web/rss) feeds.
+- [Obsidian](https://wiki.nikiv.dev/tools/obsidian) use it for [note taking](https://wiki.nikiv.dev/other/wiki-workflow). Love its linking complete feature and various plugins it has.
 
 ### Code
 
-- [VS Code](https://wiki.nikiv.dev/text-editors/vs-code) is my main editor and where I spend the most time in aside from [Safari](https://wiki.nikiv.dev/web/browsers/safari). Use and love its [extensions](https://wiki.nikiv.dev/text-editors/vs-code/vs-code-extensions). Keep my UI minimal and useful.
+- [VS Code](https://wiki.nikiv.dev/text-editors/vs-code) is my main editor and where I spend the most time in aside from [Safari](https://wiki.nikiv.dev/web/browsers/safari). Use and love its [extensions](https://wiki.nikiv.dev/text-editors/vs-code/vs-code-extensions). Keep my UI minimal and useful. I use [Insiders build](https://code.visualstudio.com/insiders/) as it has latest features.
 - [Sublime Text](https://wiki.nikiv.dev/text-editors/sublime-text) use it for [quick edits of markdown, specifically my wiki](https://wiki.nikiv.dev/other/wiki-workflow). It opens up instantly and is joy to edit in. Have custom [KM macros](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros) such as quickly creating markdown links and other little useful actions.
 - [Sublime Merge](https://www.sublimemerge.com) use it as visual Git client. It gives nice overview of files changed, what branches exist and more. I have custom actions bound to go through Git tasks fast. I also use [gitupdate](https://github.com/nikitavoloboev/gitupdate) for throwaway commits either on PR branches where main commit will be written when squashed or some random doc related repos.
+- [Warp](https://wiki.nikiv.dev/unix/shell/warp) use it my primary terminal together with [Fish Shell](https://wiki.nikiv.dev/unix/shell/fish).
 - [Dash](https://kapeli.com/dash) use it to [search for APIs fast](https://i.imgur.com/P5LQaLz.png). Use it through [Alfred workflow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/).
 - [Paw](https://paw.cloud) use it for sending HTTP requests as I test endpoints.
+- [Xcode](https://wiki.nikiv.dev/macOS/apps/xcode/) use it to build [iOS](https://wiki.nikiv.dev/operating-systems/ios) apps in [SwiftUI](https://wiki.nikiv.dev/programming-languages/swift/swift-libraries/swiftui).
+- [Postico](https://eggerapps.at/postico2/) & [TablePlus](https://tableplus.com/) use GUIs to access my [databases](https://wiki.nikiv.dev/databases). Postico works well for [Postgres](https://wiki.nikiv.dev/databases/postgresql), TablePlus for the rest.
 
 ### Social
 
@@ -85,6 +89,7 @@ I made [KM macro](https://wiki.nikiv.dev/macOS/apps/keyboard-maestro/km-macros) 
 
 - [Safari](https://wiki.nikiv.dev/web/browsers/safari) spend majority of time on mac in the app.
 - [Google Chrome Canary](https://wiki.nikiv.dev/web/browsers/google-chrome) use Canary over regular as I don't use Chrome for browsing but for development as its [dev tools](https://wiki.nikiv.dev/web/browsers/google-chrome/chrome-dev-tools) are superior. Sometimes canary builds break so I go to regular Chrome.
+- [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/) use it only for browsing [Twitter](https://wiki.nikiv.dev/tools/twitter) and sometimes dev. Have 2 feeds open in tab 1/2 and have bind `space+k` to instantly open it.
 
 ## Command Line Apps
 
