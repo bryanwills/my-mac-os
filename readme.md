@@ -104,13 +104,13 @@ I list CLIs I use [here](https://wiki.nikiv.dev/cli).
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS/WatchOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen.PNG"></a>
+    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen-2.PNG"></a>
+    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen-2.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen-3.PNG"></a>
+    <img width="250" heigth="400" src="https://images.nikiv.dev/my-ios-screen-3.png"></a>
 
 ## Similar Setups
 
